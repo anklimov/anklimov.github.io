@@ -1,0 +1,28 @@
+var variant_8cpp =
+[
+    [ "__libc_init_array", "variant_8cpp.html#a5f388c8556f7cb6a84b5692db6b6ad80", null ],
+    [ "init", "variant_8cpp.html#a2858154e2009b0e6e616f313177762bc", null ],
+    [ "Serial", "variant_8cpp.html#ad5fa5008479af2a03d2ee7b79277e4a3", null ],
+    [ "Serial1", "variant_8cpp.html#a98996e3b1960da41974cc20aa7534d1e", null ],
+    [ "Serial2", "variant_8cpp.html#ac4f2c01e07f311be5a38f6ea6118699b", null ],
+    [ "Serial3", "variant_8cpp.html#a58e24da414d1512c5ad8214bf9a7553e", null ],
+    [ "serialEvent", "variant_8cpp.html#ae4a82072b05a51477fe1dab2c3b1a2d1", null ],
+    [ "serialEvent1", "variant_8cpp.html#aa249573319c664edbb3fa152401771b9", null ],
+    [ "serialEvent2", "variant_8cpp.html#ac3fc50559c10341348050d0198e86919", null ],
+    [ "serialEvent3", "variant_8cpp.html#a2971d09aa60b6e65bbe257b0e63ae035", null ],
+    [ "serialEventRun", "variant_8cpp.html#a48e70fc0fbfb6707b49afec6309881f2", null ],
+    [ "UART_Handler", "variant_8cpp.html#a5e433d3a46eda66a50c81c1eda46c84b", null ],
+    [ "USART0_Handler", "variant_8cpp.html#aa2d1b90cebab6c82cf77533691d52483", null ],
+    [ "USART1_Handler", "variant_8cpp.html#a89d1f7ca6d3e03bd3da5e1c64a2d63a3", null ],
+    [ "USART3_Handler", "variant_8cpp.html#a9dc5cff7a328a5d2f2ab275325e6acca", null ],
+    [ "g_APinDescription", "variant_8cpp.html#afca9ed1cad882a4bedbd8316886ea03b", null ],
+    [ "g_pinStatus", "variant_8cpp.html#aaed34143acb2e5a030a9b6ee76d7359a", null ],
+    [ "rx_buffer1", "variant_8cpp.html#a63574042505692de927377f6208cec36", null ],
+    [ "rx_buffer2", "variant_8cpp.html#a2b74499efb2789343232c7085f1e628d", null ],
+    [ "rx_buffer3", "variant_8cpp.html#ad9be98fa3e30c9582af1412fdbb4f2dd", null ],
+    [ "rx_buffer4", "variant_8cpp.html#a5d535071dc479207289300ac948fa138", null ],
+    [ "tx_buffer1", "variant_8cpp.html#a99991c48ee92798655ee49829d91b7fc", null ],
+    [ "tx_buffer2", "variant_8cpp.html#ad56c10de56741dea7546394acb8e5a8e", null ],
+    [ "tx_buffer3", "variant_8cpp.html#a99e18d41731bbd8b9c43ec527cb63f29", null ],
+    [ "tx_buffer4", "variant_8cpp.html#a1fe98c6e0e7ddea94ded6f7eca5c63d7", null ]
+];
